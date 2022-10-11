@@ -13,3 +13,5 @@ Aim magic bullet tracking 18999000
 magicbullet.100009000088.aimlockd hookd 
 main /magicbullet/enmyBgmipubg config/
 Enmymagicbullettrging5000999987/
+SystemAimen.ini.Magicbulletteking/1800000000000000pppppp999999999999
+BulletpablicEnmy/bgmi/Config.json
